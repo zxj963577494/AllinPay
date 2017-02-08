@@ -15,6 +15,6 @@
 
 iis 找到部署的站点应用连接池，右键高级设置，找到“加载用户配置文件”改为true。window service2008 默认为false的。
 
-[X509Certificate2 本地正常，放到线上内部错误](http://bbs.csdn.net/topics/390901767)
-[一桩由X509Certificate2引发的血案](http://www.cnblogs.com/uptothesky/p/5972124.html)
+* [X509Certificate2 本地正常，放到线上内部错误](http://bbs.csdn.net/topics/390901767)
+* [一桩由X509Certificate2引发的血案](http://www.cnblogs.com/uptothesky/p/5972124.html)
 
